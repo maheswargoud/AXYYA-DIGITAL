@@ -25,3 +25,4 @@ spec:
             cpu: 1
         ports:
           - containerPort: 80
+        
